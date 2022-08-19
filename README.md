@@ -2,7 +2,7 @@
 
 ![Pinout](https://arduinodiy.files.wordpress.com/2019/08/esp8285-m3.jpg)
 
-
+```
 PIN |     Function         |   Restrictions                                |  CAN USE FOR
 -----------------------------------------------------------------------------------------------
 0   | Boot mode select     |  Can't be used as an input.                   | FLASHING
@@ -33,6 +33,6 @@ PIN |     Function         |   Restrictions                                |  CA
 -----------------------------------------------------------------------------------------------
 EN  | EN                   | Enable / CH_PD                                |
 -----------------------------------------------------------------------------------------------
-
+```
 
 
